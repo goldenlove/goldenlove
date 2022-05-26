@@ -4,9 +4,8 @@
 
 [![realize](https://xsa.vercel.app/static/img/realize.png)](https://xsa.vercel.app)
 
-## 技术宅 果粉 [https://xsa.vercel.app](https://xsa.vercel.app)
-
-[![Snake](https://raw.githubusercontent.com/goldenlove/goldenlove/main/github-contribution-grid-snake.svg)](https://xsa.vercel.app)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⊶ &nbsp;&nbsp; [About](https://xsa.vercel.app/?about) &nbsp;&nbsp; ⊶⊷  &nbsp;&nbsp; [Apps](https://xsa.vercel.app/?apps) &nbsp;&nbsp; ⊷
+[![Snake](github-contribution-grid-snake.svg)](https://xsa.vercel.app)
 
 <!--
 **goldenlove/goldenlove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
