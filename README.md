@@ -1,5 +1,9 @@
-# 陀振华 ZenverTao
+# ZenverTao
 
-[![realize](https://xsa.vercel.app/realize.png)](https://xsa.vercel.app)
+**🔗 Links**  
+- 🌐 [About](https://about.me/xs)  
+- 🔗 [Bio](https://zenver.bio.link)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [About](https://zenver.notion.site/e445f977c95c4a0b82606b24897a74a0) &nbsp;&nbsp;&nbsp;&nbsp; [Apps](https://zenver.notion.site/My-Picks-App-38b3bfc3e5ef42ac889e1c5f5d645f20) &nbsp;&nbsp;&nbsp;&nbsp; [TimeGoing](https://github.com/goldenlove/TimeGoes-Mac) &nbsp;&nbsp;
+**📱 Projects**  
+- ✅ [Apps](https://zenver.notion.site/My-Picks-App-38b3bfc3e5ef42ac889e1c5f5d645f20)  
+- ⏳ [TimeGoing](https://github.com/goldenlove/TimeGoes-Mac)
